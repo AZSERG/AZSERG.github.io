@@ -1,5 +1,6 @@
 ---
 title: "High Yield Phishing Campaigns using Artificial Intelligence"
+author: "Matt Keeley"
 date: 2021-02-04
 categories:
   - blog
@@ -9,15 +10,16 @@ tags:
   - Machine learning
   - Password Protection
 ---
-![](/assets/2021-02-04-high-yeild-phishing/phishing-vishing-smishing-min-768x346.png)
 
 Artificial intelligence (AI) is a branch of computer science that is primarily concerned with building machines capable of detecting and performing multiple tasks requiring human cognition. For example, these machines are built to perceive dangers around their environment and solutions to it to achieve the company’s goals or organization. Intelligent machines are built in a way that they are capable of imitating the cognitive ability of a human to learn, comprehend, solve, and apply. Artificial intelligence can be utilized in organizations to detect and protect systems of an enterprise from phishing attacks.
+
+![](/assets/2021-02-04-high-yeild-phishing/phishing-vishing-smishing-min-768x346.png)
 
 **Phishing Attacks in Large Corporations**
 
 A phishing attack is a process whereby a fraudster is trying to send some scam designed email to a victim to steal some personal information from the victim. The information could be a bank account, pin, password, etc. During the process, the fraudster tries to act like a genuine person from a certain organization or like a reputable person. The following are examples of phishing campaigns commonly used to steal from the organization.
 
-![](/assets/2021-02-04-high-yeild-phishing/assets/2021-02-04-high-yeild-phishing/spearphishing-email.jpg)
+![](/assets/2021-02-04-high-yeild-phishing/spearphishing-email.jpg)
 
 
 **Spear phishing**; this type of phishing that targets a small group or an individual. They try to lure the victim into accessing vital information like bank accounts or the transfer of funds. Firstly, these cybercriminals gather a lot of information concerning the target group before they hit. Sometimes these false emails come from the target coworker who knows how the target group operates. The attackers create malicious websites where they trick the victim into clicking on fake URL and filling in their data. When the cybercriminal has found all the necessary information needed from the victim, he/she then attacks either their bank account or system.
