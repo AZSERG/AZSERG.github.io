@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Blog"
+    url: /pages/404.md
+  - title: "Tools"
+    url: https://github.com/AZSERG
+  - title: "News"
+    url: /collection-archive/
+  - title: "About Us"
+    url: /sitemap/
