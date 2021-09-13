@@ -7,6 +7,7 @@ tags:
   - phishing
   - AI
   - Machine learning
+  - Password Protection
 ---
 ![](/assets/2021-02-04-high-yeild-phishing/phishing-vishing-smishing-min-768x346.png)
 
