@@ -1,6 +1,6 @@
 ---
 title: "High Yield Phishing Campaigns using Artificial Intelligence"
-author: "Matt Keeley"
+author: mkeeley
 date: 2021-02-04
 categories:
   - blog
