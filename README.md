@@ -15,3 +15,8 @@ bundle exec jekyll serve
 ```
 # Posts
 * Posts are located in the `_posts` directory. 
+
+# How to link images in markdown
+* Images are stored in the `assets/images/` directory
+* Reference the absolute paths of the images in the markdown file
+  * EX: `![](/assets/images/azserglogo.png)`
