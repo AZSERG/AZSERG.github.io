@@ -7,7 +7,7 @@ tags:
   - phishing
   - AI
 ---
-![](../assets/2021-02-04-high-yeild-phishing/phishing-vishing-smishing-min-768x346.png)
+![](/assets/2021-02-04-high-yeild-phishing/phishing-vishing-smishing-min-768x346.png)
 
 Artificial intelligence (AI) is a branch of computer science that is primarily concerned with building machines capable of detecting and performing multiple tasks requiring human cognition. For example, these machines are built to perceive dangers around their environment and solutions to it to achieve the company’s goals or organization. Intelligent machines are built in a way that they are capable of imitating the cognitive ability of a human to learn, comprehend, solve, and apply. Artificial intelligence can be utilized in organizations to detect and protect systems of an enterprise from phishing attacks.
 
@@ -15,10 +15,15 @@ Artificial intelligence (AI) is a branch of computer science that is primarily c
 
 A phishing attack is a process whereby a fraudster is trying to send some scam designed email to a victim to steal some personal information from the victim. The information could be a bank account, pin, password, etc. During the process, the fraudster tries to act like a genuine person from a certain organization or like a reputable person. The following are examples of phishing campaigns commonly used to steal from the organization.
 
+![](/assets/2021-02-04-high-yeild-phishing/assets/2021-02-04-high-yeild-phishing/spearphishing-email.jpg)
+
+
 **Spear phishing**; this type of phishing that targets a small group or an individual. They try to lure the victim into accessing vital information like bank accounts or the transfer of funds. Firstly, these cybercriminals gather a lot of information concerning the target group before they hit. Sometimes these false emails come from the target coworker who knows how the target group operates. The attackers create malicious websites where they trick the victim into clicking on fake URL and filling in their data. When the cybercriminal has found all the necessary information needed from the victim, he/she then attacks either their bank account or system.
 
 Spear phishing is most common on social media pages like LinkedIn, where cybercriminals can use several data sources to hit a target group.
 
+
+![](/assets/2021-02-04-high-yeild-phishing/whaling-attacks.png)
 
 **CEO Fraud or Whaling;** this is a type of spear-phishing attack that mainly targets senior business executives. In this case, attackers try to lure business executives and steal their login information. This type of fraud is done by creating a compromised business email whereby the attackers can authorize the CEO to fraudulent conduct wire transfer to any financial institution. This type of attack happens because the CEO does not involve security awareness training with their junior staff. 
 
@@ -83,6 +88,8 @@ Before falling into the hands of the smisher, the users should do some research 
 
 To protect users against pharming attacks, organizations, together with the corporates, should advise employees to log in their credentials to HTTPS sites, which are highly protected, unlike the other sites. Corporates should also establish anti-virus software that is capable of detecting malicious websites. And lastly, companies, together with the organizations, should be in the front line to upgrade their security systems.
 
+![](/assets/2021-02-04-high-yeild-phishing/1_thCB4VzqsRapqFCHC8w7EQ.jpeg)
+
 <h1>Implementation of Artificial Intelligence (AI) To Perform Better Phishing Campaigns</h1>
 There have been various cybersecurity threats from cybercriminals who try to access the organization’s confidential credentials and business executives. These threats are made by sending fraudulent emails to the recipient by luring him/her to provide vital information or login credentials of the company or his/hers. When the user fails to comply with the attacker’s instructions, they threaten him/her to block their accounts or account of the organization. These fraudsters disguise to be employees of legitimate organizations. For these cybersecurity threats to be minimized and controlled, there is a new technology tool that companies should implement, which is called Artificial Intelligence. This tool is designed to detect any malicious activity, and it can also solve the activity; in other words, the tool has been designed with human cognition. Organizations and corporates can use AI strategy from different perspectives.
 
@@ -90,6 +97,8 @@ Artificial Intelligence can be used to detect systems vulnerability and also any
 
 <h1>Machine Learning in Cyber Threats Detection </h1>
 Organizations should detect any cyber-attacks before starting to counteract. Machine learning, such as AI, is exceptionally essential in detecting cyber threats from cybercriminals. This machine is capable of analyzing and finding the threat before leveraging a flaw in the information system. AI cognitive can learn and understand the improvements that should be made to evade cybersecurity attacks from fraudsters. In cybersecurity perception, a machine learning tool can detect threats and identify anomalies better than any human being would.
+
+![](/assets/2021-02-04-high-yeild-phishing/future-of-authentication-what-will-replace-login-password-pairs.jpg)
 
 <h1>Artificial Powered Password Protection and Authentication</h1>
 The establishment of passwords to a computer and any gadgets have always been a weak solution to control cybersecurity threats. Passwords can be hacked and bypassed by attackers since it’s the only link between cybercriminals and the user. Software developers are using AI to protect computers against cyber threats hence safeguarding the information of the company.
