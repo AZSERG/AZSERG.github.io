@@ -1,6 +1,6 @@
 ---
 title: "Padding Oracle Exploit in ASP.NET"
-author: "Matt Keeley"
+author: mkeeley
 date: 2021-03-10
 categories:
   - blog
@@ -10,8 +10,6 @@ tags:
   - cryptography
   - Cipher Block Chaining (CBC)
 ---
-
-<h1>Introduction</h1>
 
 The padding oracle attack allows an attacker to decrypt encrypted data without knowledge of the encryption key and used cipher by sending skillfully manipulated ciphertexts to the padding oracle and observing of the results returned by it. This is similar to another blog post I helped out with and can be found here. In this post I’m going to walk though the theory behind this attack and how to perform it if you find it in the wild. This issue keeps popping up in the wild so I figured I would show to to pull off this type of attack. Lets get started!
 
@@ -183,7 +181,7 @@ root@warmachine:~# padbuster http://URL/login.php ajjpZSp0uZxPVZRp33L2YfC8tMnXvR
 ** Finished ***
 [+] Encrypted value is: BAitGdYuupMjA3gl1aFoOwAAAAAAAAAA```
 
-Now that we have this auth token, we can use it to login to the admin account!!
+Now that we have this auth token, we can use it to login to the admin account!
 
 
 ```html
@@ -208,7 +206,7 @@ Content-Type: text/html
 
 …omitted for brevity…
 
-**You are currently logged in as admin!**
+You are currently logged in as admin!
 ```
 
 <h1>Is this found in the wild?</h1>
