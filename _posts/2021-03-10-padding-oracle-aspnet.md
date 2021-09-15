@@ -23,41 +23,38 @@ The padding oracle attack allows an attacker to decrypt encrypted data without k
 CBC is an encryption mode in which the message is split into blocks of X bytes length and each block is XORed with the previous encrypted block. The result is then encrypted.
 
 The following schema (source: Wikipedia) explains this method:
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/1.png
+![](/assets/2021-03-10-padding-oracle-aspnet.md/1.png)
 
 During the decryption, the reverse operation is used. The encrypted data is split in block of X bytes. Then the block is decrypted and XORed with the previous encrypted block to get the cleartext. The following schema (source: Wikipedia) highlights this behavior:
 
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/image.png
-
+![](/assets/2021-03-10-padding-oracle-aspnet.md/image.png)
 
 Since the first block does not have a previous block, an initialization vector (IV) is used.
-
-
 
 <h1>Theory</h1>
 
 Credit here to PentesterLabs! They give an amazing explanation on the theory behind this attack:
 When an application decrypts encrypted data, it will first decrypt the data; then it will remove the padding. During the cleanup of the padding, if an invalid padding triggers a detectable behavior, you have a padding oracle. The detectable behavior can be an error, a lack of results, or a slower response. If you can detect this behavior, you can decrypt the encrypted data and even re-encrypt the cleartext of your choice.
 
-If we zoom in, we can see that the cleartext byte C15 is just a XOR between the encrypted byte E7 from the previous block, and byte I15 which came out of the block decryption step:
+If we zoom in, we can see that the cleartext byte **C15** is just a XOR between the encrypted byte **E7** from the previous block, and byte **I15** which came out of the block decryption step:
 
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/image-1.png
+![](/assets/2021-03-10-padding-oracle-aspnet.md/image-1.png)
 
 This is also valid for all other bytes:
 
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/image-4-edited.png
+![](/assets/2021-03-10-padding-oracle-aspnet.md/image-4-edited.png)
 
 
 Now if we modify **E7** and keep changing its value, we will keep getting an invalid padding. Since we need **C15** to be **\x01**. However, there is one value of **E7** that will give us a valid padding. Let’s call it **E’7**. With **E’7**, we get a valid padding.
 
 Since we know we get a valid padding we know that **C’15** (as in **C15** for **E’7**) is **\x01**.
 
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/image-3-edited.png
+![](/assets/2021-03-10-padding-oracle-aspnet.md/image-3-edited.png)
 
-Now that we have C15, we can move to brute-forcing C14. First we need to compute another E7 (let’s call it E”7) that gives us C15 = \x02. We need to do that since we want the padding to be \x02\x02 now. It’s really simple to compute using the property above and by replacing the value of C15 we want (\x02) and I15 we now know:
+Now that we have **C15**, we can move to brute-forcing **C14**. First we need to compute another **E7** (let’s call it **E”7**) that gives us **C15** = **\x02**. We need to do that since we want the padding to be **\x02\x02** now. It’s really simple to compute using the property above and by replacing the value of **C15** we want (**\x02**) and **I15** we now know:
 
 
-file:///home/mkeeley/Documents/AZSERG/AZSERG.github.io/assets/2021-03-10-padding-oracle-aspnet.md/image-2-edited.png
+![](/assets/2021-03-10-padding-oracle-aspnet.md/image-2-edited.png)
 
 Using this method, we can keep going until we get all the ciphertext decrypted
 
