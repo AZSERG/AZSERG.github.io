@@ -2,6 +2,9 @@
 mkeeley:
     name: Matt Keeley
     email: mkeeley@bishopfox.com
+    avatar: "/assets/images/matt.jpg"
 rjones:
     name: Ryan Jones
-    email: rjones@yeet.com
+    email: ryanjonesxyz@gmail.com
+    avatar: "/assets/images/rj.jpg"
+    twitter: ryanjonesrocks
