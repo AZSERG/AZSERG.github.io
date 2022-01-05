@@ -21,7 +21,7 @@ Join our discord!
     * January 7th, 2022
 * Finding 0 days in web application with white box pentesting
     * January 14th, 2022
-* Guest Talk: Matthew Merrill talk on ho
+* Guest Talk: Matthew Merrill talk on ho1
     * January 21st, 2022
 * Communication skills: Dealing with tough clients
     * January 28th, 2022
@@ -57,3 +57,10 @@ Join our discord!
     * April 22th, 2022
 * Guest Talk: Skylar hacking internal networks (Optiv)
     * April 29th, 2022
+
+
+## Interested? 
+Test paypal:
+
+
+{% include paypal.html %}
