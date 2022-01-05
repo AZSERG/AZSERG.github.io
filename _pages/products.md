@@ -16,6 +16,7 @@ Join our discord!
 
 ## Course Overview:
 
+### January
 * How to give technical interviews
     * January 7th, 2022
 * Finding 0 days in web application with white box pentesting
@@ -25,7 +26,7 @@ Join our discord!
 * Communication skills: Dealing with tough clients
     * January 28th, 2022
 
-
+### February
 * Red team Architecture Series: PT. 1
     * February 4th, 2022
 * Red team Architecture Series: PT. 2 
@@ -35,7 +36,7 @@ Join our discord!
 * Red team Architecture Series: PT. 4
     * February 25th, 2022
 
-
+### March
 * Guest Talk: Matt Frost talk on hacking tractors (Bishop Fox)
     * March 4th, 2022
 * How to review source code in large codebases
@@ -45,14 +46,14 @@ Join our discord!
 * TO BE DETERMINED
     * March 25th, 2022
 
-
+### April
 * Guest Talk: Naz talk on how to hack mobile applications (Bishop Fox)
     * April 1st, 2022
 * TO BE DETERMINED
     * April 8th, 2022
 * TO BE DETERMINED
     * April 15st, 2022
-* Hacking
+* TO BE DETERMINED
     * April 22th, 2022
 * Guest Talk: Skylar hacking internal networks (Optiv)
     * April 29th, 2022
