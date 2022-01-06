@@ -60,7 +60,9 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 
 
 ## Interested? 
-Test paypal:
+You can purchase a 3 month membership for $50 through paypal. This gives you access to the SERGER role and all live and recorded lectures. 
+
+* We are only offering 3 months at this time to test member interest. 
 
 
 {% include paypal.html %}
