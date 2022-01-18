@@ -23,7 +23,7 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * February 11th, 2022
 * TO BE DETERMINED
     * February 18th, 202
-* Quick Talks on Communication skills (Dealing with tough clients, How to give technical interviews and [1/2 more here])
+* Quick Talks on Communication skills (Dealing with tough clients, How to give technical interviews and [1 or 2 more])
     * February 25th, 2022
 
 ### March
@@ -39,11 +39,11 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 ### April
 * Guest Talk: Skyler Knecht talk on internal network penetration testing (Optiv)
     * April 1st, 2022
-* Red team Architecture series: PT. 1
+* Red team architecture series: PT. 1
     * April 8th, 2022
-* Red team Architecture series: PT. 2 
+* Red team architecture series: PT. 2 
     * April 15th, 2022
-* Red team Architecture series: PT. 3
+* Red team architecture series: PT. 3
     * April 22nd, 2022
-* Red team Architecture series: PT. 4
+* Red team architecture series: PT. 4
     * April 29th, 2022
