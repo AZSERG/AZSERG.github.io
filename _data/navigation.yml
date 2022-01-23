@@ -6,7 +6,7 @@ main:
     url: https://github.com/AZSERG
   - title: "News"
     url: /news/
-  - title: "Products"
-    url: /products/
+  - title: "talks"
+    url: /talks/
   - title: "About Us"
     url: /about/
