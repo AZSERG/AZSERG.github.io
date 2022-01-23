@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "AZSERG talks"
+title: "AZSERG Talks"
 author_profile: true
 layout: tag
 ---
