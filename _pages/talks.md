@@ -17,7 +17,7 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 ## Talk Schedule:
 
 ### January
-* Finding 0-days in web applications (white box approach)
+* [Finding 0-days in web applications (white box approach)](https://www.youtube.com/watch?v=L89TBvTz-vQ)
     * January 26th, 2022
 
 ### February
