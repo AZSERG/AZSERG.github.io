@@ -20,3 +20,6 @@ bundle exec jekyll serve
 * Images are stored in the `assets/images/` directory
 * Reference the absolute paths of the images in the markdown file
   * EX: `![](/assets/images/azserglogo.png)`
+
+# Known Bugs
+There are currently some dependency issues for Ruby on the new M1 macs. It's recommended to use another system if your dependencies keep breaking. 
