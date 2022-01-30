@@ -23,3 +23,7 @@ To aggregate a group of talented hackers who are capable of tackling the most di
 
 AZSERG is currently invite only. We require all members to have significant contributions towards AZSERG.
 If you wish to join you can reach out to one of the members in our [discord server](https://discord.gg/cXukpqt7JN). 
+
+## Bug Bounty
+
+For technical or security issues related to the blog [contact us](mailto:ryanjonesxyz@gmail.com).
