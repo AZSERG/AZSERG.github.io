@@ -23,10 +23,10 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 ### February
 * Covert communications in Industry Control System (ICS) environments
     * February 2nd, 2022
-* Phishing 2.0, say goodbye to sending emails!
+* Log4j - A thorough analysis
     * February 9th, 2022
 * TO BE DETERMINED
-    * February 16th, 202
+    * February 16th, 2022
 * Quick Talks on Communication skills (Dealing with tough clients, How to give technical interviews and more!)
     * February 23rd, 2022
 
@@ -51,3 +51,5 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * April 20th, 2022
 * Red team architecture series: PT. 4
     * April 27th, 2022
+
+Backup: Phishing 2.0, say goodbye to sending emails!
