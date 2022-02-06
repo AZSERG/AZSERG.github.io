@@ -5,7 +5,7 @@ title: "AZSERG Talks"
 ---
 
 # What is this?
-AZSERG provides students with weekly talks on various cyber security and software engineering topics.  All talks are at 6:30 PM [Mountian Standard Time](https://savvytime.com/converter/mst-to-pt-cdt). 
+AZSERG provides professionals and students with weekly talks on various cyber security and software engineering topics.  All talks are at 6:30 PM [Mountian Standard Time](https://savvytime.com/converter/mst-to-pt-cdt). 
 
 
 ## Access to the community
