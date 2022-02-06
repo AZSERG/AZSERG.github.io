@@ -20,7 +20,7 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * January 26th, 2022
 
 ### February
-* Covert communications in Industry Control System (ICS) environments
+* [Covert communications in Industry Control System (ICS) environments](https://www.youtube.com/watch?v=avaW-W89hRI)
     * February 2nd, 2022
 * Log4j - A thorough analysis
     * February 9th, 2022
