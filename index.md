@@ -22,9 +22,9 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 ### February
 * [Covert communications in Industry Control System (ICS) environments](https://www.youtube.com/watch?v=avaW-W89hRI)
     * February 2nd, 2022
-* Log4j - A thorough analysis
+* [Log4j - A thorough analysis](https://www.youtube.com/watch?v=cUkG5pjQsTk)
     * February 9th, 2022
-* TO BE DETERMINED
+* Hunting the homeless
     * February 16th, 2022
 * Quick Talks on Communication skills (Dealing with tough clients, How to give technical interviews and more!)
     * February 23rd, 2022
