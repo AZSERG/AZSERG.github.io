@@ -24,7 +24,7 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * February 2nd, 2022
 * [Log4j - A thorough analysis](https://www.youtube.com/watch?v=cUkG5pjQsTk)
     * February 9th, 2022
-* Hunting the homeless
+* [Hitchhikers Guide to OSINT](https://www.youtube.com/watch?v=lz_NI1adf1U)
     * February 16th, 2022
 * Quick Talks on Communication skills (Dealing with tough clients, How to give technical interviews and more!)
     * February 23rd, 2022
