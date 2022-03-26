@@ -30,14 +30,12 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * February 23rd, 2022
 
 ### March
-* Guest Talk: Ryan Jones talk on hardware hacking
-    * March 2nd, 2022
 * How to review source code in large codebases
     * March 9th, 2022
 * [Guest Talk: Matthew Merrill talk on Shitcoins and Smart-Contracts (Elevate)](https://youtu.be/X91Z4luoCJM)
-    * March 16th, 2022
-* TO BE DETERMINED
-    * March 23rd, 2022
+    * March 23th, 2022
+* Hardware Hacking like it's 1998
+    * TBD
 * Guest Talk: Skyler Knecht talk on internal network penetration testing (Optiv)
     * March 30th, 2022
 
