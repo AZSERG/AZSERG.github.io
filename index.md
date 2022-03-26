@@ -34,7 +34,7 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
     * March 2nd, 2022
 * How to review source code in large codebases
     * March 9th, 2022
-* Guest Talk: Matthew Merrill talk on Shitcoins and Smart-Contracts (Elevate)
+* [Guest Talk: Matthew Merrill talk on Shitcoins and Smart-Contracts (Elevate)](https://youtu.be/X91Z4luoCJM)
     * March 16th, 2022
 * TO BE DETERMINED
     * March 23rd, 2022
