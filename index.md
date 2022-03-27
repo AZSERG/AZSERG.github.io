@@ -32,21 +32,29 @@ Join our [discord](https://discord.gg/cXukpqt7JN)!
 ### March
 * How to review source code in large codebases
     * March 9th, 2022
+* Phishing 2.0 Say goodbye to emails
+    * March 16th, 2022
 * [Guest Talk: Matthew Merrill talk on Shitcoins and Smart-Contracts (Elevate)](https://youtu.be/X91Z4luoCJM)
     * March 23th, 2022
-* Hardware Hacking like it's 1998
-    * TBD
-* Guest Talk: Skyler Knecht talk on internal network penetration testing (Optiv)
+* Hardware Hacking like it's 1998 pt. 1
     * March 30th, 2022
 
 ### April
-* Red team architecture series: PT. 1
-    * April 6th, 2022
-* Red team architecture series: PT. 2 
+*  Guest Talk: Skyler Knecht talk on internal network penetration testing (Navy Federal)
+    * April 8th, 2022
+* Hardware Hacking like it's 1998 pt. 2 
     * April 13th, 2022
-* Red team architecture series: PT. 3
+* Red team architecture series: PT. 1
     * April 20th, 2022
-* Red team architecture series: PT. 4
+* Red team architecture series: PT. 2
     * April 27th, 2022
 
-Backup: Phishing 2.0, say goodbye to sending emails!
+### May
+* Red team architecture series: PT. 3
+   * May 4th, 2022
+*  Guest Talk: TBD
+   * May 11th, 2022
+*  Guest Talk: TBD
+   * May 18th, 2022
+* Red team architecture series: PT. 4
+   * May 25th 2022
